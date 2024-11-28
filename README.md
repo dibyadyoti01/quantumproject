@@ -49,14 +49,19 @@ Q: Will this break reality?
 A: Only a little. We’ll blame it on quantum entanglement. 😉
 
 🛡️ License
-You can use this code, modify it, or even try to quantum teleport it. Just don't sue me if your computer starts acting like it's in a parallel universe. MIT License included for your peace of mind. 😎
+You can use this code, modify it, or even try to quantum teleport it. Just don't sue me if your computer starts acting like it's in a parallel universe. 
+
+MIT License included for your peace of mind. 😎
 
 yaml
-Copy code
+
 
 ---
 
 This version mixes humor and geeky references while still being informative. It’ll definitely stand out and make people smile when they visit your repository! 🎉
+
+
+Thanks! 
 
 
 
